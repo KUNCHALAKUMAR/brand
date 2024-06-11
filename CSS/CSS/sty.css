@@ -1,0 +1,11 @@
+h1{
+    background-color:greenyellow;
+    color:black;
+}
+.odd{
+    color: rgb(70,155,200);
+
+}
+.even{
+    color: rgb(0,255,0);
+}
